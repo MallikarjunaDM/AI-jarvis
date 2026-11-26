@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS — 3D Knowledge Galaxy",
+  "description": "An interactive 3D knowledge galaxy and real-time voice second brain powered by Three.js and Gemini.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
